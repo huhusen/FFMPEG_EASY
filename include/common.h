@@ -13,6 +13,7 @@
 #include <utility>
 #include <variant>
 #include <vector>
+#include "spdlog/spdlog.h"
 
 extern "C"
 {
